@@ -1,0 +1,21 @@
+Buildling Name: Adams Hall
+Building Size: 11168
+Buildilng Address: 606 SW 15TH Street, Corvallis, OR
+-----------------------------
+Buildling Name: Aero Engineering Lab
+Building Size: 3637
+Buildilng Address: 852 SW 30th street, Corvallis, OR
+-----------------------------
+Buildling Name: Agricultural & Life Sciences Building
+Building Size: 185629
+Buildilng Address: 2750 SW Campus Way, Corvallis, OR
+-----------------------------
+Buildling Name: Austin Hall
+Building Size: 107613
+Buildilng Address: 2751 SW Jefferson Way, Corvallis, OR
+-----------------------------
+University: Oregon State University
+-----------------------------
+Number of buildlings: 4
+Number of people: 13
+-----------------------------
